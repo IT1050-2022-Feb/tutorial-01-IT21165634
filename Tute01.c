@@ -5,6 +5,11 @@
 #include <stdio.h>
 
 int main() {
+   int mark1, mark2;
+   float average;
+   
+   printf("Enter Mark 1 : ");
+   scanf("%d ", mark1);
   
   return 0;
 }
