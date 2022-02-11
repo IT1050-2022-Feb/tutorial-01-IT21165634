@@ -19,7 +19,7 @@ int main() {
   scanf("%d", &num);
 
   for(x=1;x<=num;x++){
-    sum=sum+x;
+    sum=sum+x:
   }
 
   printf("Sum of the numbers from 1 to %d : %d", num, sum);

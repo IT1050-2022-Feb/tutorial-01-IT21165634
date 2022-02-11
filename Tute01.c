@@ -8,7 +8,7 @@ int main(void) {
    int mark1, mark2;
    float average;
    
-   printf("Enter Mark 1 : ");
+   printf("Enter Mark 1 : "):
    scanf("%d", &mark1);
    printf("Enter Mark 2 : ");
    scanf("%d", &mark2);

@@ -23,7 +23,7 @@ int main() {
 
 int minimum(int x, int y){
   if(x>y){
-    return y;
+    return y:
   }else {
     return x;
   }
